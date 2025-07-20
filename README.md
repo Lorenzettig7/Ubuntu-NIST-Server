@@ -113,8 +113,6 @@ Same as step 1, save as `results/ubuntu-stig-postfix.html`
 
 ---
 
----
-
 ## About
 
 This project was created to demonstrate technical compliance, automation, and documentation skills relevant to **DoD SOC analyst** and **RMF-focused cybersecurity roles**.
