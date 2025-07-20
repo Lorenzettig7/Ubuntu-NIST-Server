@@ -70,7 +70,13 @@ Same as step 1, save as `results/ubuntu-stig-postfix.html`
 
 ### 4. Review Compliance Docs
 
-*
+Open the docs/ folder and review the following:
+
+SSP.md: Describes the system, its boundary, and control implementations
+
+POAM.md: Lists any unresolved findings and planned remediations
+
+STIG-NIST-Mapping.md: Maps each STIG control to relevant NIST 800-53 controls
 
 ---
 
